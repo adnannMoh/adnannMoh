@@ -1,67 +1,98 @@
-# 👋 Hi there, I'm Mohamed Mustafe!
+# Hi, I'm Mohamed Mustafe — Data Analyst | SQL Server | Power BI | Excel 📊
 
-Welcome to my GitHub! I'm a passionate full-stack developer who enjoys turning ideas into functional and meaningful web applications. I love building systems that solve real problems — especially with clean, maintainable code and thoughtful design.
+Welcome to my GitHub!
+
+I am a **Data Analyst** with a strong background in software engineering, passionate about transforming raw data into meaningful insights that drive business and organizational decisions.
+
+I specialize in analyzing, cleaning, and visualizing data to uncover trends, improve performance, and support data-driven strategies.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I specialize in **Backend Development** and enjoy working with databases and APIs.
-- 🌍 Based in the Horn of Africa and building projects that make a difference in my community.
-- 🧠 Constantly learning and experimenting with new tools and technologies.
-- 🎯 Focused on clean architecture, performance, and user-first thinking.
+* 📊 Data Analyst focused on **business insights and decision support**
+* 🗄️ Strong experience with **SQL Server** (data querying, joins, aggregation, data cleaning)
+* 📈 Skilled in building **interactive dashboards using Power BI**
+* 📑 Advanced use of **Excel** for reporting, pivot tables, and data analysis
+* 🌍 Passionate about working with **organizations, businesses, and government data**
+* 🧠 Background in software engineering gives me an edge in **problem-solving and data handling**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Data Analytics Stack
 
-Here are some of the core technologies I use:
-
-| Language / Tool | Description |
-|-----------------|-------------|
-| **Python** 🐍   | My go-to language for backend logic, automation, and APIs (mainly with Flask) |
-| **Node.js** ⚙️  | I use it to build fast, scalable server-side applications |
-| **JavaScript** ✨ | Frontend and backend scripting — making web apps dynamic and interactive |
-| **MongoDB** 🍃  | NoSQL database of choice for flexible, schema-free data modeling |
+| Tool                             | Description                                          |
+| -------------------------------- | ---------------------------------------------------- |
+| **SQL Server**                   | Data extraction, transformation, joins, aggregations |
+| **Power BI**                     | Dashboard creation, data modeling, visualization     |
+| **Excel**                        | Data cleaning, pivot tables, reporting, analysis     |
+| **Python (Pandas)** *(ON going Now)* | Data analysis and automation                         |
 
 ---
 
-## 📚 Projects
+## 📊 Data Analysis Projects
 
-Some of my key projects:
+### 🔹 Sales Performance Dashboard (SQL + Power BI)
 
-- 🔖 [Awdal Library Management System](https://github.com/adnannMoh/awdal-Library-management-system.git)  
-  A full web app to help libraries manage books, loans, and inventory with Flask and MongoDB.
+* Extracted and cleaned data using SQL Server
+* Built an interactive dashboard using Power BI
+* Analyzed revenue trends, top products, and regional performance
+* Delivered insights to support business decision-making
 
-(More projects coming soon — stay tuned!)
+---
+
+### 🔹 Customer Insights Analysis
+
+* Used SQL queries to analyze customer behavior
+* Identified high-value customers and segmentation patterns
+* Visualized results using Power BI dashboards
+
+---
+
+### 🔹 Data Cleaning & Reporting (Excel)
+
+* Cleaned raw datasets using Excel
+* Created pivot tables and summary reports
+* Improved data quality and reporting accuracy
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced backend development patterns
-- Authentication systems (JWT, OAuth)
-- Deployment and CI/CD pipelines
-- TypeScript and RESTful architecture
+* Advanced SQL (Window Functions, CTEs)
+* Data modeling and optimization
+* Power BI advanced dashboards & DAX
+* Data storytelling and visualization best practices
 
 ---
 
-## ✨ Fun Facts
+## 📈 My Focus
 
-- I believe coding is like solving puzzles — every bug is an opportunity to grow.
-- I love creating tools that improve real-world systems like education, libraries, and small businesses.
+I am focused on:
+
+* Turning data into **clear, actionable insights**
+* Building **professional dashboards**
+* Working on **real-world datasets**
+* Supporting **data-driven decision making**
 
 ---
 
 ## 📫 Let’s Connect
 
-I'm always open to collaborations, feedback, or just tech talk!  
-Feel free to reach out or follow me for future updates:
+I'm open to:
 
-- 🔗 GitHub: [github.com/adnannMoh](https://github.com/adnannMoh)
+* Data Analyst opportunities
+* Collaborations on data projects
+* Learning and sharing knowledge
 
-Thanks for visiting my profile!
+🔗 GitHub: https://github.com/adnannMoh
 
 ---
 
-_“Code is not just what I do — it's how I think.”_
+## ✨ Personal Note
+
+I believe data tells a story — my goal is to **analyze it, understand it, and communicate it clearly** to help organizations make better decisions.
+
+---
+
+*"Without data, you're just another person with an opinion."*
